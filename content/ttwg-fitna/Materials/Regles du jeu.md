@@ -10,7 +10,10 @@ tags:
 
 
 
-![[FITNA_FR_Regles_v1.pdf]]
+![[FITNA_FR_Regles_v1.pdf#height=1000]]
+
+
+
 
 
 
