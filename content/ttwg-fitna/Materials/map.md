@@ -7,7 +7,7 @@ tags:
 
 
 
-![[map_FITNA 1.png]]
+![[map_FITNA 1.png|width=1000]]
 
 
 ```leaflet
