@@ -2,6 +2,7 @@
 title: Scenari
 draft: 
 tags:
+  - scenario
 ---
 
 
