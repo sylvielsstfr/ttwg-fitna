@@ -4,6 +4,10 @@ longform:
   title: Materials
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
-  ignoredFiles: []
+  scenes:
+    - map
+    - Reègles du jeux
+  ignoredFiles:
+    - Untitled
+    - 
 ---
