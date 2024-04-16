@@ -1,12 +1,10 @@
 ---
 longform:
   format: scenes
-  title: Runs
+  title: Materials
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - map
-    - Reègles du jeux
     - Rule of game
     - Regles du jeu imprimables
     - Scenari
@@ -15,6 +13,7 @@ longform:
     - card font
     - cards font
     - cards back
+    - map
     - Jockers
     - Pions
     - Pions-cutlines
@@ -24,7 +23,6 @@ longform:
     - Player-aid
   sceneTemplate: Templates/chapter.md
   ignoredFiles:
-    - Untitled
-    - 
-    - Reègles du jeu
+    
+
 ---
