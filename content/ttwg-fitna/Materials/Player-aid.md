@@ -1,5 +1,5 @@
 ---
-title: Palyer-aid
+title: Player-aid
 draft: 
 tags:
   - doc
