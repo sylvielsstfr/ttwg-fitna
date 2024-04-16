@@ -7,7 +7,7 @@ tags:
 
 
 
-![[Jokers_cutlines.pdf]]
+![[Jokers_cutlines.pdf#view=FitH]]
 
 
 

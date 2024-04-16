@@ -7,7 +7,7 @@ tags:
 
 
 
-![[FITNA_FR_Cartes_Dos_v1.pdf]]
+![[FITNA_FR_Cartes_Dos_v1.pdf#view=FitH]]
 
 
 

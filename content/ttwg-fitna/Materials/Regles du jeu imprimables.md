@@ -6,7 +6,7 @@ tags:
 ---
 
 
-![[FITNA_FR_Regles_v1_fond blanc.pdf]]
+![[FITNA_FR_Regles_v1_fond blanc.pdf#view=FitH]]
 
 
 

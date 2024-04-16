@@ -7,8 +7,4 @@ tags:
 
 
 
-
-
-
-
-![[FITNA_FR_4Pions_nocutlines.pdf]]
+![[FITNA_FR_4Pions_nocutlines.pdf#view=FitH]]

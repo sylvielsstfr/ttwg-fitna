@@ -8,6 +8,6 @@ tags:
 
 
 
-![[FITNA_FR_Scenarios_v3.pdf]]
+![[FITNA_FR_Scenarios_v3.pdf#view=FitH]]
 
 

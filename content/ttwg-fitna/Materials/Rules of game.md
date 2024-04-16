@@ -12,5 +12,5 @@ tags:
 
 
 
-![[2020-10-15-Rules-Fitna-EN.pdf#height=1000]]
+![[2020-10-15-Rules-Fitna-EN.pdf#view=FitH]]
 
