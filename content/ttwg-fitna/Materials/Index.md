@@ -22,6 +22,7 @@ longform:
     - Playyer-aid
     - FAQ
     - Player-aid
+  sceneTemplate: Templates/chapter.md
   ignoredFiles:
     - Untitled
     - 
