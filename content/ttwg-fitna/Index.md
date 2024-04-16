@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: ttwg-fitna
+  title: materials
   workflow: Default Workflow
   sceneFolder: /
   scenes:
