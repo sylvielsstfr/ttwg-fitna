@@ -7,6 +7,9 @@ tags:
 
 
 
+![[map_FITNA 1.png]]
+
+
 ```leaflet
 
 id: leaflet-map
